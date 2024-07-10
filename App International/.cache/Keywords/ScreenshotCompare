@@ -1,0 +1,94 @@
+{
+  "keywordFileContentHash": "B0FD6E72611AF2F3B46BD60421398ECC",
+  "keywordClasses": [
+    {
+      "name": "ScreenshotCompare",
+      "keywordMethods": [
+        {
+          "name": "compareImages",
+          "parameters": [
+            {
+              "name": "Filename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getDifferencePercent",
+          "parameters": [
+            {
+              "name": "actualImage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.awt.image.BufferedImage",
+                "unresolvedClassName": "BufferedImage",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "expectedImage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.awt.image.BufferedImage",
+                "unresolvedClassName": "BufferedImage",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "pixelDiff",
+          "parameters": [
+            {
+              "name": "rgb1",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "rgb2",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

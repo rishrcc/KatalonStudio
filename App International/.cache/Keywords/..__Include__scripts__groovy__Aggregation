@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "741CAB78E1F05174849D258F5804DAD3",
+=======
+  "keywordFileContentHash": "16402231D879DD6D47FC50EC915CF025",
+>>>>>>> test
+  "keywordClasses": [
+    {
+      "name": "Aggregation",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

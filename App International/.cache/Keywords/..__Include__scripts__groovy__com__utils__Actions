@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "CAD6AC21DE0DBB7830848CDAF7B68AE3",
+=======
+  "keywordFileContentHash": "3EB723220EE968949B62D32C4264B6FE",
+>>>>>>> test
+  "keywordClasses": [
+    {
+      "name": "com.utils.Actions",
+      "keywordMethods": []
+    }
+  ],
+<<<<<<< HEAD
+  "javadocParsed": true
+=======
+  "javadocParsed": false
+>>>>>>> test
+}

@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "6F42563C463C1A64636293A4AD5821C3",
+  "keywordClasses": [
+    {
+      "name": "UploadToXray",
+      "keywordMethods": [
+        {
+          "name": "updateTestExecution",
+          "parameters": [
+            {
+              "name": "testExecutionKey",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "status",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

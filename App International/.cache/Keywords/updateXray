@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "9ED0131166914DE4D4A24357A99064A5",
+  "keywordClasses": [
+    {
+      "name": "updateXray",
+      "keywordMethods": [
+        {
+          "name": "getSubfolderCucumberReport",
+          "parameters": [
+            {
+              "name": "index",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createTestExecution",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "createTestExecutionXSSF",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

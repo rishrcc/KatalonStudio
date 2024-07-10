@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FAQ - LoggedUserSearchingByNonExistingKeyword - UI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cc00ae5-aa54-4c1a-842e-5ab0a8176d99</testCaseGuid>
+</TestCaseEntity>

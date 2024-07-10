@@ -1,0 +1,3 @@
+C:/Users/RishabhGungah/OneDrive - Gamma Civic Ltd/Desktop-2022/SwitchTestKatalon/Workspace_OneyPlus/odb_qa/qa_auto/App International/App International\Screenshots\LoggedUserSendingRequestByChoosingThematiqueAndPDF\Actual\sendRequestFilledForm_Actual.png
+C:/Users/RishabhGungah/OneDrive - Gamma Civic Ltd/Desktop-2022/SwitchTestKatalon/Workspace_OneyPlus/odb_qa/qa_auto/App International/App International\Screenshots\UnauthenticatedUserSendingRequestByChoosingThematiqueAndImage\Actual\requestSent_Actual.png
+C:/Users/RishabhGungah/OneDrive - Gamma Civic Ltd/Desktop-2022/SwitchTestKatalon/Workspace_OneyPlus/odb_qa/qa_auto/App International/App International\Screenshots\UnauthenticatedUserSendingRequestByChoosingThematiqueAndPDF\Actual\requestSent_Actual.png
